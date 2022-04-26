@@ -2,10 +2,9 @@
 Links to various HTJ2K resources
 
 White Papers
-* [High Throughput JPEG 2000 (HTJ2K): Algorithm, Performance and Potential](https://www.htj2k.com/wp-content/uploads/white-paper.pdf)
 * [High Throughput JPEG 2000 (HTJ2K) and the JPH file format: a primer](https://ds.jpeg.org/whitepapers/jpeg-htj2k-whitepaper.pdf)
+* [High Throughput JPEG 2000 (HTJ2K): Algorithm, Performance and Potential](https://www.htj2k.com/wp-content/uploads/white-paper.pdf)
 * [DECODING HIGH-THROUGHPUT JPEG2000 (HTJ2K) ON A GPU](https://kakadusoftware.com/wp-content/uploads/ICIP2019_GPU.pdf)
-* [](https://kakadusoftware.com/wp-content/uploads/2019/09/icip2019.pdf)
 
 Videos
 * [Encoding High-Throughput JPEG2000 (HTJ2K) Images On a GPU](https://www.youtube.com/watch?v=iw-1WYzutB4)

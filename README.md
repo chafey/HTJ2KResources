@@ -6,6 +6,9 @@ White Papers
 * [High Throughput JPEG 2000 (HTJ2K): Algorithm, Performance and Potential](https://www.htj2k.com/wp-content/uploads/white-paper.pdf)
 * [DECODING HIGH-THROUGHPUT JPEG2000 (HTJ2K) ON A GPU](https://kakadusoftware.com/wp-content/uploads/ICIP2019_GPU.pdf)
 
+Articles
+* [High Throughput JPEG 2000 for Video Content Production and Delivery Over IP Networks](https://www.frontiersin.org/articles/10.3389/frsip.2022.885644/full)
+
 Videos
 * [Encoding High-Throughput JPEG2000 (HTJ2K) Images On a GPU](https://www.youtube.com/watch?v=iw-1WYzutB4)
 * [The Rise and Fall and Rise of JPEG2000 | FOSDEM 2020](https://www.youtube.com/watch?v=UGXeRx0Tic4)
@@ -34,6 +37,7 @@ Standards
 * [SMPTE 2067:20:202X (revision project) IMF App2E for Studio Video Masters](https://github.com/SMPTE/st2067-21/blob/main/35PM-CD-ST-2067-21-IMFApp2E-Rev-2021-11-26(clean)-PCD.pdf)
 * [SMPTE 2067:40:2021 IMF App4 for digital cinema archiving was also updated to support HTJ2K IMF](https://ieeexplore.ieee.org/abstract/document/9576684)
 * [SMPTE 422:2019](https://ieeexplore.ieee.org/document/8984770)
+* [SMPTE PCD ST 2067-21:20xx](https://raw.githubusercontent.com/SMPTE/st2067-21/main/35PM-CD-ST-2067-21-IMFApp2E-Rev-2021-11-26(clean)-PCD.pdf)
 
 Application Support
 * [Rhode & Schwarz Clipster](https://www.rohde-schwarz.com/us/products/broadcast-and-media/media-mastering/rs-clipster_63493-229148.html)

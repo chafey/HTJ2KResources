@@ -42,6 +42,7 @@ Standards
 Application Support
 * [Rhode & Schwarz Clipster](https://www.rohde-schwarz.com/us/products/broadcast-and-media/media-mastering/rs-clipster_63493-229148.html)
 * [BlackMagic Davinci Resolve 17](https://www.blackmagicdesign.com/products/davinciresolve/)
+* [Colorfront](https://colorfront.com/)
 
 Other
 * [HTJ2K Discord Server](https://discord.gg/U4Zbq7RGDn)

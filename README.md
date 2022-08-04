@@ -28,6 +28,11 @@ Open Source Libraries
 * [openjphjs](https://github.com/chafey/openjphjs)
 * [kakadujs](https://github.com/chafey/kakadujs/)
 
+Open source tools
+* [GDAL](https://gdal.org/) (through Kakadu)
+* [FFMmpeg](https://ffmpeg.org/) (through OpenJPEG)
+* [ImageMagick](https://imagemagick.org/) (through OpenJPEG)
+
 Demos
 * [Real time video playback](https://demo.noproxy.cloud/)
 * [OpenJPHJS Browser Test App for medical images](https://chafey.github.io/openjphjs/test/browser/index.html)

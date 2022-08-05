@@ -17,6 +17,7 @@ Videos
 
 Commerical Libraries
 * [Kakadu](https://kakadusoftware.com)
+* [Comprimato](https://comprimato.com)
 
 Open Source Libraries
 * [OpenJPH](https://github.com/aous72/OpenJPH)

@@ -28,6 +28,11 @@ Open Source Libraries
 * [openjphjs](https://github.com/chafey/openjphjs)
 * [kakadujs](https://github.com/chafey/kakadujs/)
 
+Open source tools
+* [GDAL](https://gdal.org/) (through Kakadu)
+* [FFMmpeg](https://ffmpeg.org/) (through OpenJPEG)
+* [ImageMagick](https://imagemagick.org/) (through OpenJPEG)
+
 Demos
 * [Real time video playback](https://demo.noproxy.cloud/)
 * [OpenJPHJS Browser Test App for medical images](https://chafey.github.io/openjphjs/test/browser/index.html)
@@ -42,6 +47,7 @@ Standards
 Application Support
 * [Rhode & Schwarz Clipster](https://www.rohde-schwarz.com/us/products/broadcast-and-media/media-mastering/rs-clipster_63493-229148.html)
 * [BlackMagic Davinci Resolve 17](https://www.blackmagicdesign.com/products/davinciresolve/)
+* [Colorfront](https://colorfront.com/)
 
 Other
 * [HTJ2K Discord Server](https://discord.gg/U4Zbq7RGDn)

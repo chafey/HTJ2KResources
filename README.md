@@ -5,6 +5,7 @@ White Papers
 * [High Throughput JPEG 2000 (HTJ2K) and the JPH file format: a primer](https://ds.jpeg.org/whitepapers/jpeg-htj2k-whitepaper.pdf)
 * [High Throughput JPEG 2000 (HTJ2K): Algorithm, Performance and Potential](https://www.htj2k.com/wp-content/uploads/white-paper.pdf)
 * [DECODING HIGH-THROUGHPUT JPEG2000 (HTJ2K) ON A GPU](https://kakadusoftware.com/wp-content/uploads/ICIP2019_GPU.pdf)
+* [Case study: performance on laptop & desktop PCs](https://ds.jpeg.org/documents/jpeg2000/wg1n100269-096-COM-JPEG_Case_Study_HTJ2K_performance_on_laptop_desktop_PCs.pdf)
 
 Articles
 * [High Throughput JPEG 2000 for Video Content Production and Delivery Over IP Networks](https://www.frontiersin.org/articles/10.3389/frsip.2022.885644/full)

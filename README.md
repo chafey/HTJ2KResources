@@ -9,6 +9,7 @@ White Papers
 
 Articles
 * [High Throughput JPEG 2000 for Video Content Production and Delivery Over IP Networks](https://www.frontiersin.org/articles/10.3389/frsip.2022.885644/full)
+* [High Throughput JPEG 2000 for Broadcast and IP-Based Applications](https://ieeexplore.ieee.org/document/9424052)
 
 Videos
 * [Encoding High-Throughput JPEG2000 (HTJ2K) Images On a GPU](https://www.youtube.com/watch?v=iw-1WYzutB4)

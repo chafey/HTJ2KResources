@@ -39,6 +39,7 @@ Demos
 * [Real time video playback](https://demo.noproxy.cloud/)
 * [OpenJPHJS Browser Test App for medical images](https://chafey.github.io/openjphjs/test/browser/index.html)
 * [OpenJPH demo App](https://openjph.org/javascript/demo.html)
+* [PDF image speed tests](https://www.ht-pdf.com/)
 
 Standards
 * [SMPTE 2067:20:202X (revision project) IMF App2E for Studio Video Masters](https://github.com/SMPTE/st2067-21/blob/main/35PM-CD-ST-2067-21-IMFApp2E-Rev-2021-11-26(clean)-PCD.pdf)

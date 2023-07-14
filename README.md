@@ -33,7 +33,8 @@ Open Source Libraries
 * [openjphpy](https://github.com/UM2ii/openjphpy/) - python library based on OpenJPH
 
 Commercial Products 
-* [Amazon HealthImaging](https://aws.amazon.com/healthlake/imaging/) - AWS Managed service for medical imaging that stores images as HTJ2K
+* [AWS HealthImaging](https://aws.amazon.com/healthlake/imaging/) - AWS Managed service for medical imaging that stores images as HTJ2K
+* [FlexView](https://flexview.ai/)
 * [Rhode & Schwarz Clipster](https://www.rohde-schwarz.com/us/products/broadcast-and-media/media-mastering/rs-clipster_63493-229148.html)
 * [BlackMagic Davinci Resolve 17](https://www.blackmagicdesign.com/products/davinciresolve/)
 * [Colorfront](https://colorfront.com/)

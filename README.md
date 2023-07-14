@@ -28,8 +28,19 @@ Open Source Libraries
 * [OpenHTJ2K](https://github.com/osamu620/OpenHTJ2K)
 * [HTJ2K reference software](https://gitlab.com/wg1/htj2k-rs/)
 * [openhtjs](https://github.com/sandflow/openhtjs)
-* [openjphjs](https://github.com/chafey/openjphjs)
-* [kakadujs](https://github.com/chafey/kakadujs/)
+* [openjphjs](https://github.com/chafey/openjphjs) - C++/WASM build of OpenJPH for medical imaging
+* [kakadujs](https://github.com/chafey/kakadujs/) - C++/WASM build of Kakadu for medical imaging (requires Kakadu license)
+* [openjphpy](https://github.com/UM2ii/openjphpy/) - python library based on OpenJPH
+
+Commercial Products 
+* [Amazon HealthImaging](https://aws.amazon.com/healthlake/imaging/) - AWS Managed service for medical imaging that stores images as HTJ2K
+* [Rhode & Schwarz Clipster](https://www.rohde-schwarz.com/us/products/broadcast-and-media/media-mastering/rs-clipster_63493-229148.html)
+* [BlackMagic Davinci Resolve 17](https://www.blackmagicdesign.com/products/davinciresolve/)
+* [Colorfront](https://colorfront.com/)
+
+Opemn Source Projects
+* [OHIF](https://ohif.org) - Web based medical image viewer
+* [CornerstoneJSj](https://www.cornerstonejs.org/) - Javascript library for building medical imaging applications
 
 Open source tools
 * [GDAL](https://gdal.org/) (through Kakadu)
@@ -47,11 +58,7 @@ Standards
 * [SMPTE 2067:40:2021 IMF App4 for digital cinema archiving was also updated to support HTJ2K IMF](https://ieeexplore.ieee.org/abstract/document/9576684)
 * [SMPTE 422:2019](https://ieeexplore.ieee.org/document/8984770)
 * [SMPTE PCD ST 2067-21:20xx](https://raw.githubusercontent.com/SMPTE/st2067-21/main/35PM-CD-ST-2067-21-IMFApp2E-Rev-2021-11-26(clean)-PCD.pdf)
-
-Application Support
-* [Rhode & Schwarz Clipster](https://www.rohde-schwarz.com/us/products/broadcast-and-media/media-mastering/rs-clipster_63493-229148.html)
-* [BlackMagic Davinci Resolve 17](https://www.blackmagicdesign.com/products/davinciresolve/)
-* [Colorfront](https://colorfront.com/)
+* [DICOM Supplement 235](https://www.dicomstandard.org/news-dir/current/docs/sups/sup235.pdf)
 
 Other
 * [HTJ2K Discord Server](https://discord.gg/U4Zbq7RGDn)

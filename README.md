@@ -21,7 +21,7 @@ Commerical Libraries
 * [Kakadu](https://kakadusoftware.com)
 * [Comprimato](https://comprimato.com)
 
-Open Source Libraries
+Free / Open Source Libraries
 * [OpenJPH](https://github.com/aous72/OpenJPH)
 * [OpenJPEG](https://github.com/uclouvain/openjpeg)
 * [Grok](https://github.com/GrokImageCompression/grok)
@@ -31,6 +31,7 @@ Open Source Libraries
 * [openjphjs](https://github.com/chafey/openjphjs) - C++/WASM build of OpenJPH for medical imaging
 * [kakadujs](https://github.com/chafey/kakadujs/) - C++/WASM build of Kakadu for medical imaging (requires Kakadu license)
 * [openjphpy](https://github.com/UM2ii/openjphpy/) - python library based on OpenJPH
+* [nVidia nvJPEG2000](https://docs.nvidia.com/cuda/nvjpeg2000/index.html) - GPU accelerated HTJ2K decoding with nVidia GPU
 
 Commercial Products 
 * [AWS HealthImaging](https://aws.amazon.com/healthlake/imaging/) - AWS Managed service for medical imaging that stores images as HTJ2K

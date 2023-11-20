@@ -17,7 +17,7 @@ Videos
 * [HT: High-Throughput JPEG2000 (HTJ2K). Big Improvements To JPEG2000 And Imaging [ IMAGE READY ]](https://www.youtube.com/watch?v=Jvb3mUCyHH0)
 * [Lossless UHD Videos in a browser](https://www.w3.org/2021/03/media-production-workshop/talks/pierre-anthony-lemieux-media-production.html)
 
-Commerical Libraries
+Commercial Libraries
 * [Kakadu](https://kakadusoftware.com)
 * [Comprimato](https://comprimato.com)
 
@@ -40,9 +40,9 @@ Commercial Products
 * [BlackMagic Davinci Resolve 17](https://www.blackmagicdesign.com/products/davinciresolve/)
 * [Colorfront](https://colorfront.com/)
 
-Opemn Source Projects
+Open Source Projects
 * [OHIF](https://ohif.org) - Web based medical image viewer
-* [CornerstoneJSj](https://www.cornerstonejs.org/) - Javascript library for building medical imaging applications
+* [CornerstoneJS](https://www.cornerstonejs.org/) - Javascript library for building medical imaging applications
 
 Open source tools
 * [GDAL](https://gdal.org/) (through Kakadu)
@@ -54,6 +54,8 @@ Demos
 * [OpenJPHJS Browser Test App for medical images](https://chafey.github.io/openjphjs/test/browser/index.html)
 * [OpenJPH demo App](https://openjph.org/javascript/demo.html)
 * [PDF image speed tests](https://www.ht-pdf.com/)
+* [Cornerstone3D Single Image HTJ2K](https://www.cornerstonejs.org/live-examples/htj2kstackbasic)
+* [Cornerstone3D Volume MPR HTJ2K](https://www.cornerstonejs.org/live-examples/htj2kvolumebasic)
 
 Standards
 * [SMPTE 2067:20:202X (revision project) IMF App2E for Studio Video Masters](https://github.com/SMPTE/st2067-21/blob/main/35PM-CD-ST-2067-21-IMFApp2E-Rev-2021-11-26(clean)-PCD.pdf)

@@ -21,7 +21,7 @@ Videos
 * [Decoding Medical Images in AWS HealthImaging Using nVidia nvJPEG2000](https://event.on24.com/eventRegistration/console/apollox/mainEvent?&eventid=4344398&sessionid=1&username=&partnerref=&format=fhvideo1&mobile=&flashsupportedmobiledevice=&helpcenter=&key=9A63C3CED52D08FFA52D359F05E88D28&newConsole=true&nxChe=true&newTabCon=true&consoleEarEventConsole=false&text_language_id=en&playerwidth=748&playerheight=526&eventuserid=648032784&contenttype=A&mediametricsessionid=558259950&mediametricid=6121929&usercd=648032784&mode=launch)
 
 
-Commerical Libraries
+Commercial Libraries
 * [Kakadu](https://kakadusoftware.com)
 * [Comprimato](https://comprimato.com)
 
@@ -47,7 +47,7 @@ Commercial Products
 
 Open Source Projects
 * [OHIF](https://ohif.org) - Web based medical image viewer
-* [CornerstoneJSj](https://www.cornerstonejs.org/) - Javascript library for building medical imaging applications
+* [CornerstoneJS](https://www.cornerstonejs.org/) - Javascript library for building medical imaging applications
 
 Open source tools
 * [GDAL](https://gdal.org/) (through Kakadu)
@@ -61,6 +61,8 @@ Demos
 * [OpenJPHJS Browser Test App for medical images](https://chafey.github.io/openjphjs/test/browser/index.html)
 * [OpenJPH demo App](https://openjph.org/javascript/demo.html)
 * [PDF image speed tests](https://www.ht-pdf.com/)
+* [Cornerstone3D Single Image HTJ2K](https://www.cornerstonejs.org/live-examples/htj2kstackbasic)
+* [Cornerstone3D Volume MPR HTJ2K](https://www.cornerstonejs.org/live-examples/htj2kvolumebasic)
 
 Standards
 * [SMPTE 2067:20:202X (revision project) IMF App2E for Studio Video Masters](https://github.com/SMPTE/st2067-21/blob/main/35PM-CD-ST-2067-21-IMFApp2E-Rev-2021-11-26(clean)-PCD.pdf)
